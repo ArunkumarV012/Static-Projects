@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-top-container {
+    background-color: #fb4e71;
+    height: 30vh;
+}
+
+.top-sec-heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold
+}
+
+.top-sec-paragraph {
+    color: white;
+    font-family: "Roboto";
+}
+
+.rahul-img {
+    height: 180px;
+    width: 120px;
+}
+
+.background-bottom-container {
+    background-color: #e6f6ff;
+    height: 70vh;
+}
+
+.bottom-sec-heading {
+    color: #323f4b;
+    font-size: 22px;
+}
+
+.card-container {
+    border-radius: 12px;
+}
+
+.card-heading {
+    font-size: 16px;
+}
+
+.card-background {
+    background-color: white;
+}
+
+.img-size {
+    height: 100px;
+    width: 100px;
+    border-radius: 12px;
+}
+
+.video-font {
+    font-size: 13px;
+}
+
